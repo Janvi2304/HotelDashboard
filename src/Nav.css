@@ -1,0 +1,50 @@
+.nav-container {
+  /* min-height: 100vh; */
+  background: rgb(255, 255, 255);
+  font-family: sitka display;
+  top: 0;
+  width: 100%;
+   position: fixed;
+}
+
+.navbar {
+  background-color: #2c2c2c;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  align-items: center;
+}
+
+.navbar-logo {
+  display: flex;
+  font-size: 40px;
+  font-weight: bold;
+  align-items: center;
+  color: bisque;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-links li a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.hotel-icon {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+
+.hotel-img {
+  height: 640px;
+  width: 1528px;
+
+}

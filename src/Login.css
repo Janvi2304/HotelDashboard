@@ -1,0 +1,83 @@
+.background-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   background: linear-gradient(to bottom, rgba(222, 221, 221, 0.8),rgba(26, 26, 26, 0.8));
+  
+}
+.login-container{
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+   background: 
+    linear-gradient(to bottom, #c6c4c4, rgba(29, 29, 29, 0.8)),
+    url('./assets/wine-glass3.jpg');
+  background-repeat: no-repeat;
+  background-size: 480px;
+  background-position: center;
+}
+.login-title {
+  margin-bottom: 24px;
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+}
+.login-form .form-group {
+  margin-bottom: 20px;
+}
+
+.login-form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+.login-form input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+
+.form-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.forgot-link {
+  color: #f2f2f5;
+  text-decoration: none;
+}
+
+.forgot-link:hover {
+  text-decoration: underline;
+}
+
+
+.login-btn {
+  width: 100%;
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.signup-link {
+  text-align: center;
+  margin-top: 16px;
+  font-size: 14px;
+}
+.signup-link a {
+  color: #f9f9fa;
+  text-decoration: none;
+}
