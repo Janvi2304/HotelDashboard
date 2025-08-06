@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2be7954e.css",
+    "main.js": "/static/js/main.5cefa104.js",
+    "static/js/453.19dbe0b4.chunk.js": "/static/js/453.19dbe0b4.chunk.js",
+    "static/media/hotel tuli.jpeg": "/static/media/hotel tuli.eabaceaab12dcddff73d.jpeg",
+    "static/media/wine-glass3.jpg": "/static/media/wine-glass3.904bdf53e3f2dda4ba97.jpg",
+    "index.html": "/index.html",
+    "main.2be7954e.css.map": "/static/css/main.2be7954e.css.map",
+    "main.5cefa104.js.map": "/static/js/main.5cefa104.js.map",
+    "453.19dbe0b4.chunk.js.map": "/static/js/453.19dbe0b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be7954e.css",
+    "static/js/main.5cefa104.js"
+  ]
+}
